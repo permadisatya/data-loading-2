@@ -1,4 +1,4 @@
-#Google Big Query 101
+# Google Big Query 101
 
 trainer: Johanes alexander
 
